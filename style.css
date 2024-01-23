@@ -14,7 +14,7 @@
 :root {
   
   --text-color: #050506;
-  --main-color:  rgb(126, 75, 234);
+  --main-color:  rgb(92, 4, 19);
   --white-color: #fdfdfd;
   --shadow-color: rgba(4, 1, 1, 0.911);
   --ds-color: skyblue;
@@ -42,7 +42,7 @@ body {
   left: 0;
   width: 100%; 
   padding: 2rem 7%;
-  background: rgb(159, 125, 237);
+  background: rgb(2, 2, 2);
   box-shadow:inset;
   display: flex;
   align-items: center;
@@ -561,7 +561,7 @@ span {
     align-items: center;
     flex-wrap: wrap;
     padding: 1rem 7%;
-    background: rgb(192, 179, 223);
+    background: rgb(6, 6, 6);
   }
   .footer-iconTop:hover{
     color: var(--main-color);
